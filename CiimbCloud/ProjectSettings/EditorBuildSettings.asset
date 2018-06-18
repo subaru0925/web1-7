@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/neko.unity
+    guid: d44d765f3e1f7eb4ea14730b2077187a
+  - enabled: 1
+    path: Assets/ClearScene.unity
+    guid: 0db6fcbe1c222ea4da1b09656c7b1760
